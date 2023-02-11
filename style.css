@@ -215,7 +215,7 @@
   @media screen and (min-width: 768px) {
     
     body {
-      background-image: url(./assets/tablet/image-hero@2x.jpg);
+      background-image: url(./assets/image-hero@2x.jpg);
       background-repeat: no-repeat;
       background-size: 437px, 700px;
     }
@@ -324,7 +324,7 @@
   @media screen and (min-width: 1439px) {
     
     body {
-      background-image: url(./assets/tablet/image-hero@2x.jpg);
+      background-image: url(./assets/image-hero@2x.jpg);
       background-repeat: no-repeat;
       background-size: 499px, 500px;
       background-position: left 450px top 0px;
